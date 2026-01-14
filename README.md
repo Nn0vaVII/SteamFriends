@@ -19,7 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name           | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:---------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/fef278a31a94adc4c74ca9e8fb2126ba4abfe68c.jpg) | 衹為吾主           | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
+| ![](https://avatars.steamstatic.com/f3cbb35193556c6981845af50c01f88b51407cf7.jpg) | 衹想陪著你一起離開臺     | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
 | ![](https://avatars.steamstatic.com/85d849aa4f08c79680a6d08f4ebf29d00a8a8229.jpg) | 我是白给老冯我已飞升     | [76561198981495079](https://steamcommunity.com/profiles/76561198981495079/) | ✅           | 2025-11-09 17:05:33 |                |          |
 | ![](https://avatars.steamstatic.com/263fcbf1a36247e625aa2ebd3a762fceccd1709f.jpg) | 白玄奇            | [76561198898411297](https://steamcommunity.com/profiles/76561198898411297/) | ✅           | 2025-11-17 08:32:51 |                |          |
 | ![](https://avatars.steamstatic.com/cd1a1e9bf9430e63cae627f62185d13ae8d7003b.jpg) | 南方烟火           | [76561199159940876](https://steamcommunity.com/profiles/76561199159940876/) | ✅           | 2025-11-25 23:35:04 |                |          |
