@@ -19,7 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/5e0e01adf5ac2bf157e428132522006d983b039d.jpg) | 33         | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
+| ![](https://avatars.steamstatic.com/46bc4128ffb017861cb31c9763cc804e96a7547c.jpg) | 江鸟         | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
 | ![](https://avatars.steamstatic.com/2cff0e1162b6afecbde73c6bb79c8a385403bd42.jpg) | KoCiYaLaYi | [76561198981495079](https://steamcommunity.com/profiles/76561198981495079/) | ✅           | 2025-11-09 17:05:33 |                |          |
 | ![](https://avatars.steamstatic.com/e7ab321e8c352ef403ed9aecfd32fedb444d91a9.jpg) | 君が周りを無くした  | [76561198898411297](https://steamcommunity.com/profiles/76561198898411297/) | ✅           | 2025-11-17 08:32:51 |                |          |
 | ![](https://avatars.steamstatic.com/40d6fdf341289fca25bf8a74ca54d2359f50c4e2.jpg) | 南方烟火       | [76561199159940876](https://steamcommunity.com/profiles/76561199159940876/) | ✅           | 2025-11-25 23:35:04 |                |          |
