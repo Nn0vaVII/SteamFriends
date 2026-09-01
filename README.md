@@ -19,7 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/b2ad5d2f043a02ca71698a376bca16d1cae77a93.jpg) | Antidote     | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
+| ![](https://avatars.steamstatic.com/b2ad5d2f043a02ca71698a376bca16d1cae77a93.jpg) | 江鳥           | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
 | ![](https://avatars.steamstatic.com/acacec54c2cb39d998efbca9d09aa8295300b935.jpg) | Re`Exc       | [76561198981495079](https://steamcommunity.com/profiles/76561198981495079/) | ✅           | 2025-11-09 17:05:33 |                |          |
 | ![](https://avatars.steamstatic.com/e0e921e82856f1582cf2294556cd21061cbcd020.jpg) | 厭男厭女藝術家      | [76561198898411297](https://steamcommunity.com/profiles/76561198898411297/) | ✅           | 2025-11-17 08:32:51 |                |          |
 | ![](https://avatars.steamstatic.com/62132e6b77e72d43e59011e050c1e96f371bcddb.jpg) | MiKoto       | [76561199159940876](https://steamcommunity.com/profiles/76561199159940876/) | ✅           | 2025-11-25 23:35:04 |                |          |
