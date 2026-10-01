@@ -19,7 +19,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/b2ad5d2f043a02ca71698a376bca16d1cae77a93.jpg) | 貓廁懂[歡度國慶]        | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
+| ![](https://avatars.steamstatic.com/b2ad5d2f043a02ca71698a376bca16d1cae77a93.jpg) | 手著東[歡度國慶]        | [76561199521918743](https://steamcommunity.com/profiles/76561199521918743/) | ✅           | 2025-12-08 11:08:03 |                |          |
 | ![](https://avatars.steamstatic.com/acacec54c2cb39d998efbca9d09aa8295300b935.jpg) | Re`Exc           | [76561198981495079](https://steamcommunity.com/profiles/76561198981495079/) | ✅           | 2025-11-09 17:05:33 |                |          |
 | ![](https://avatars.steamstatic.com/dc8801076834f20f2b666c21e1e519b889f01bf1.jpg) | LoKi             | [76561198898411297](https://steamcommunity.com/profiles/76561198898411297/) | ✅           | 2025-11-17 08:32:51 |                |          |
 | ![](https://avatars.steamstatic.com/62132e6b77e72d43e59011e050c1e96f371bcddb.jpg) | 南方烟火             | [76561199159940876](https://steamcommunity.com/profiles/76561199159940876/) | ✅           | 2025-11-25 23:35:04 |                |          |
